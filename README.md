@@ -1,30 +1,43 @@
-# Hi there, I'm Jaish Dahiya! 👋
+# Hi there, I'm Jaish Dahiya! 👋 
 
-### 👨‍💻 Pursuing BCA from IGNOU | Data Science Student at DUCAT
+### 👨‍💻 Data Science Enthusiast | Python Developer
 
-I'm an aspiring Data Scientist who loves turning messy data into meaningful stories. Currently, I'm building projects around sales analysis, stock markets, and streaming data.
-
----
-
-### 🛠️ My Tech Stack
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Data Tools:** SQL, Excel, Jupyter Notebooks
-- **Current Learning:** Machine Learning & Statistical Modeling
-
-### 📊 GitHub Stats
-![Jaish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=dark)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97CF8&width=435&lines=BCA+Student+from+IGNOU;Data+Science+at+DUCAT;Turning+Data+into+Insights;Open+Source+Contributor" alt="Typing SVG" />
 
 ---
 
-### 📈 Current Projects
-- **[Amazon Sales Analysis](https://github.com/jaishdahiya6-del/amazon-sales-analysis):** Cleaning and analyzing e-commerce trends.
-- **[Netflix Content Analysis](https://github.com/jaishdahiya6-del/netflix-content-analysis):** Deep dive into global streaming data.
-- **[Big Tech Stock Analysis](https://github.com/jaishdahiya6-del/big-tech-stock-analysis):** Tracking performance of giant tech companies.
+### 🚀 About Me
+- 🎓 Pursuing **BCA from IGNOU**
+- 🤖 Specialized in **Data Science from DUCAT**
+- 📊 Currently analyzing Sales and Stock Market data
+- ✉️ Reach me at: **jaishdahiya6@gmail.com**
 
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/jaish-dahiya-5a9753395](https://www.linkedin.com/in/jaish-dahiya-5a9753395)
-- **Email:** jaishdahiya6@gmail.com
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-*"The goal is to turn data into information, and information into insight."*
+
+### 📊 GitHub Activity (Updates Automatically!)
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&langs_count=7&theme=visual_studio_dark"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaish-dahiya-5a9753395)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaishdahiya6@gmail.com)
+
+---
+
+### ⭐ Featured Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [Amazon Sales](https://github.com/jaishdahiya6-del/amazon-sales-analysis) | End-to-end Sales Analysis | Python, Pandas |
+| [Netflix Analysis](https://github.com/jaishdahiya6-del/netflix-content-analysis) | Content Strategy Analysis | Seaborn, EDA |
+| [Stock Analysis](https://github.com/jaishdahiya6-del/big-tech-stock-analysis) | Big Tech Stock Performance | NumPy, Matplotlib |
