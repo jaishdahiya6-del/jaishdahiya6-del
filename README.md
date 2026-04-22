@@ -20,14 +20,16 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
 ### 📊 GitHub Activity (Updates Automatically!)
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&langs_count=7&theme=visual_studio_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" />
 </p>
 
----
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaish-dahiya-5a9753395)
