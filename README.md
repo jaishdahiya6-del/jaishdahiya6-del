@@ -22,13 +22,13 @@
 ---
 ### 📊 GitHub Activity (Updates Automatically!)
 <p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ### 🔗 Connect With Me
