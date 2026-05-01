@@ -23,13 +23,13 @@
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight&v=1" />
 </p>
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
