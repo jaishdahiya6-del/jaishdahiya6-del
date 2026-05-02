@@ -24,15 +24,17 @@
 </p>
 
 ---
+
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true&cache_id=jan2026" alt="Jaish Dahiya's Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight&cache_id=jan2026" alt="GitHub Streak" />
+  <!-- Alternative Stats Provider to bypass the broken links -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" />
 </p>
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&cache_id=jan2026" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight" />
 </p>
 
 ---
