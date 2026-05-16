@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97CF8&width=500&lines=BCA+Student+at+IGNOU;Data+Science+Enthusiast;Python+%26+ML+Developer;Founder+of+IndiaThreads.com" alt="Typing SVG" />
 </p>
 
----
+
 
 ### 🚀 About Me
 - 🎓 Pursuing **BCA from IGNOU**
