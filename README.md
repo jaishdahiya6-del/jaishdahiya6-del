@@ -3,9 +3,8 @@
 ### 👨‍💻 Data Science Student | Python Developer | Tech Blogger
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97CF8&width=500&lines=BTech CSE+Student+at+Gateway;Data+Science+Enthusiast;Python+%26+ML+Developer;Founder+of+IndiaThreads.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97CF8&width=500&lines=BTech+CSE+Student+at+Gateway;Data+Science+Enthusiast;Python+%26+ML+Developer;Founder+of+IndiaThreads.com" alt="Typing SVG" />
 </p>
-
 
 
 ### 🚀 About Me
