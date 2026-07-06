@@ -11,7 +11,6 @@
 - 🎓 Pursuing **BCA from IGNOU**
 - 🤖 Specialized in **Data Science from DUCAT**
 - 📊 Focus: **Predictive Modeling** & **Automated Workflow Integration**
-- ✍️ I manage **[India Threads](https://indiathreads.com)**, a news & tech platform.
 - ✉️ Reach me at: **jaishdahiya6@gmail.com**
 
 ### 🛠️ Tech Stack & Tools
