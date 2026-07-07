@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97CF8&width=500&lines=BTech+CSE+Student+at+Gateway;Data+Science+Enthusiast;Python+%26+ML+Developer;Founder+of+IndiaThreads.com" alt="Typing SVG" />
 </p>
 
-
 ### 🚀 About Me
 - 🎓 Pursuing **BCA from IGNOU**
 - 🤖 Specialized in **Data Science from DUCAT**
@@ -27,13 +26,13 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
