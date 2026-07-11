@@ -7,7 +7,7 @@
 </p>
 
 ### 🚀 About Me
-- 🎓 Pursuing **BCA from IGNOU**
+- 🎓 Pursuing **BTech+CSE from Gateway**
 - 🤖 Specialized in **Data Science from DUCAT**
 - 📊 Focus: **Predictive Modeling** & **Automated Workflow Integration**
 - ✉️ Reach me at: **jaishdahiya6@gmail.com**
