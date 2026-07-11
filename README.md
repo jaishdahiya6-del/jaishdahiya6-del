@@ -52,9 +52,6 @@
   <a href="https://www.linkedin.com/in/jaish-dahiya-5a9753395" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://indiathreads.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-India_Threads-9B59B6?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website" />
-  </a>
   <a href="mailto:jaishdahiya6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
