@@ -1,43 +1,36 @@
-# Hi there, I'm Jaish Dahiya! 👋 
+# Jaish Dahiya
 
-### 👨‍💻 Data Science Student | Python Developer | Tech Blogger
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97CF8&width=500&lines=BTech+CSE+Student+at+Gateway;Data+Science+Enthusiast;Python+%26+ML+Developer" alt="Typing SVG" />
-</p>
-
-### 🚀 About Me
-- 🎓 Pursuing **BTech+CSE from Gateway**
-- 🤖 Specialized in **Data Science from DUCAT**
-- 📊 Focus: **Predictive Modeling** & **Automated Workflow Integration**
-- ✉️ Reach me at: **jaishdahiya6@gmail.com**
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
+I am a BTech CSE student at Gateway and a Data Science specialist trained at DUCAT. I enjoy working with data, whether that means cleaning messy datasets or building predictive models. I focus on practical applications of Python to solve real-world problems and automate workflows.
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-### 🛠️ Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### What I actually do
+- **Data analysis & visualization**: Finding patterns and trends in datasets, like analyzing Amazon sales behavior or visualizing Netflix's library content using Pandas, NumPy, and Matplotlib.
+- **Predictive modeling**: Building models using Scikit-learn and LSTM networks to forecast trends, such as cryptocurrency patterns and tech stock performances.
+- **Automation**: Designing custom workflows with n8n to integrate APIs and automate repetitive data retrieval tasks.
 
 ---
 
-### ⭐ Featured Projects
+### Tech Stack
+
+#### Languages
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+#### Data & Machine Learning
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+
+#### Automation
+<img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+---
+
+### Currently learning & working on
+- Deepening my understanding of time-series forecasting models (particularly LSTMs) to improve my Bitcoin prediction project.
+- Exploring advanced SQL for complex data cleaning and querying.
+
+---
+
+### Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [📉 Bitcoin GenAI Predictor](https://github.com/jaishdahiya6-del) | Predicting crypto trends using Generative AI. | Python, LSTM, APIs |
@@ -47,12 +40,20 @@
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/jaish-dahiya-5a9753395" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jaishdahiya6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+### GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### Get in touch
+If you want to chat about Python, data analysis, or workflow automation, feel free to reach out:
+- Email: [jaishdahiya6@gmail.com](mailto:jaishdahiya6@gmail.com)
+- LinkedIn: [Jaish Dahiya](https://www.linkedin.com/in/jaish-dahiya-5a9753395)
