@@ -40,15 +40,24 @@ I am a BTech CSE student at Gateway and a Data Science specialist trained at DUC
 
 ---
 
-### GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=jaishdahiya6-del&theme=tokyonight"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ---
