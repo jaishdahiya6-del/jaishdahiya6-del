@@ -58,20 +58,27 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Jaish's GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight&hide_border=true" alt="Jaish's Streak Stats" />
+  <a href="https://github.com/jaishdahiya6-del">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&theme=tokyonight&hide_border=true" alt="Jaish's GitHub Stats" />
+  </a>
+  <a href="https://github.com/jaishdahiya6-del">
+    <img height="180" src="https://streak-stats.demolab.com/?user=jaishdahiya6-del&theme=tokyonight&hide_border=true" alt="Jaish's Streak Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://github.com/jaishdahiya6-del">
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
-
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaishdahiya6-del&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/jaishdahiya6-del">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaishdahiya6-del&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -86,5 +93,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Jaish_Dahiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
 
 ⭐️ *If you find my projects helpful or interesting, feel free to drop a star on the repositories!*
