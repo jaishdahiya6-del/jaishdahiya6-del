@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/jaishdahiya6-del">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaishdahiya6-del&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaishdahiya6-del&theme=tokyonight" alt="Activity Graph" />
   </a>
 </p>
 
