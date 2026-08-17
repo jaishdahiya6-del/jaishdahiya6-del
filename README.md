@@ -59,16 +59,10 @@
 
 <p align="center">
   <a href="https://github.com/jaishdahiya6-del">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&theme=tokyonight&hide_border=true" alt="Jaish's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&hide_border=true" alt="Jaish's GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/jaishdahiya6-del">
-    <img height="180" src="https://streak-stats.demolab.com/?user=jaishdahiya6-del&theme=tokyonight&hide_border=true" alt="Jaish's Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jaishdahiya6-del">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
   </a>
 </p>
 ---
