@@ -48,10 +48,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Bitcoin GenAI Predictor** | AI-powered Bitcoin price prediction model | Python, LSTM, Machine Learning |
-| **Amazon Sales Analysis** | Comprehensive exploratory data analysis on sales patterns | Python, Pandas, Matplotlib |
-| **Netflix Content Analysis** | Exploratory analysis covering 8,800+ movies and TV shows | Python, Data Visualization |
-| **Big Tech Stock Analysis** | Predictive market trend analysis for AAPL, GOOG, and MSFT | Python, Financial Data Analysis |
+| [**Bitcoin GenAI Predictor**](https://github.com/jaishdahiya6-del/Bitcoin-GenAI-Predictor) | AI-powered Bitcoin price prediction model | Python, LSTM, Machine Learning |
+| [**Amazon Sales Analysis**](https://github.com/jaishdahiya6-del/Amazon-Sales-Analysis) | Comprehensive exploratory data analysis on sales patterns | Python, Pandas, Matplotlib |
+| [**Netflix Content Analysis**](https://github.com/jaishdahiya6-del/Netflix-Content-Analysis) | Exploratory analysis covering 8,800+ movies and TV shows | Python, Data Visualization |
+| [**Big Tech Stock Analysis**](https://github.com/jaishdahiya6-del/Big-Tech-Stock-Analysis) | Predictive market trend analysis for AAPL, GOOG, and MSFT | Python, Financial Data Analysis |
 
 ---
 
@@ -65,13 +65,14 @@
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
   </a>
 </p>
+
 ---
 
-## 📈 Activity Graph
+## 📈 Streak Stats
 
 <p align="center">
   <a href="https://github.com/jaishdahiya6-del">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaishdahiya6-del&theme=tokyo-night&area=true&hide_border=true" alt="Jaish's Activity Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight&hide_border=true" alt="Jaish's GitHub Streak" />
   </a>
 </p>
 
