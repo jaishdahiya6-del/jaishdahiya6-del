@@ -60,37 +60,21 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/jaishdahiya6-del">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&hide_border=true" alt="Jaish's GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/jaishdahiya6-del">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  </a>
-</p>
+![Jaish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jaishdahiya6-del&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaishdahiya6-del&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Streak Stats
 
-<p align="center">
-  <a href="https://github.com/jaishdahiya6-del">
-    <img src="https://streak-stats.demolab.com/?user=jaishdahiya6-del&theme=tokyonight&hide_border=true" alt="Jaish's GitHub Streak" />
-  </a>
-</p>
+![Jaish's GitHub Streak](https://git-streak-stats.herokuapp.com/?user=jaishdahiya6-del&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:jaishdahiya6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jaishdahiya6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaish-dahiya-5a9753395" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaish_Dahiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-jaishdahiya6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaishdahiya6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaish_Dahiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaish-dahiya-5a9753395)
 
 ---
 
