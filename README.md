@@ -13,8 +13,8 @@
 
 - 🎓 **Education:** BTech CSE Student at Gateway College
 - 📊 **Specialization:** Data Science Specialist (DUCAT)
-- 💻 **Tech Interests:** Passionate about Python, Machine Learning, AI, and Automation
-- 📈 **Mission:** Solving real-world problems using data-driven insights
+- 💻 **Tech Interests:** Passionate about Python, Machine Learning, Deep Learning, and Workflow Automation
+- 📈 **Mission:** Solving real-world problems using data-driven insights and AI models
 
 ---
 
@@ -31,7 +31,9 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
 ### Tools & Automation
@@ -40,6 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 </p>
 
 ---
@@ -48,10 +51,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Bitcoin GenAI Predictor**](https://github.com/jaishdahiya6-del/Bitcoin-GenAI-Predictor) | AI-powered Bitcoin price prediction model | Python, LSTM, Machine Learning |
-| [**Amazon Sales Analysis**](https://github.com/jaishdahiya6-del/Amazon-Sales-Analysis) | Comprehensive exploratory data analysis on sales patterns | Python, Pandas, Matplotlib |
-| [**Netflix Content Analysis**](https://github.com/jaishdahiya6-del/Netflix-Content-Analysis) | Exploratory analysis covering 8,800+ movies and TV shows | Python, Data Visualization |
-| [**Big Tech Stock Analysis**](https://github.com/jaishdahiya6-del/Big-Tech-Stock-Analysis) | Predictive market trend analysis for AAPL, GOOG, and MSFT | Python, Financial Data Analysis |
+| [**Bitcoin GenAI Predictor**](https://github.com/jaishdahiya6-del/Bitcoin-GenAI-Predictor) | Deep learning Bitcoin price prediction model integrated with sentiment analysis | Python, LSTM, Scikit-Learn |
+| [**Big Tech Stock Analysis**](https://github.com/jaishdahiya6-del/Big-Tech-Stock-Analysis) | Interactive dashboard and predictive trend analysis for tech giants (AAPL, GOOG, MSFT) | Python, Streamlit, Pandas |
+| [**Amazon Sales Analysis**](https://github.com/jaishdahiya6-del/Amazon-Sales-Analysis) | Comprehensive exploratory data analysis on consumer behavior and sales patterns | Python, Pandas, Matplotlib, Seaborn |
+| [**Netflix Content Analysis**](https://github.com/jaishdahiya6-del/Netflix-Content-Analysis) | Exploratory analysis and recommender logic across 8,800+ movies and TV shows | Python, Data Visualization |
 
 ---
 
