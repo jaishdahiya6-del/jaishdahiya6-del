@@ -1,6 +1,10 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaishdahiya6-del/jaishdahiya6-del/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaishdahiya6-del/jaishdahiya6-del/main/light.svg">
+  <img alt="Jaish Dahiya Hero Banner" src="https://raw.githubusercontent.com/jaishdahiya6-del/jaishdahiya6-del/main/dark.svg" width="100%">
+</picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Jaish+Dahiya;Data+Science+%26+ML+Developer;Python+%26+Automation+Enthusiast" alt="Typing Header" />
+<div align="center">
 
   <p align="center">
     <b>BTech CSE Student • Gateway College | Data Science Specialist • DUCAT</b>
