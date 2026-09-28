@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Education:** Pursuing BTech CSE at Gateway College & BCA at IGNOU
+* 🎓 **Education:** Pursuing BTech CSE at Gateway College 
 * 📊 **Specialization:** Data Science & Analytics Training from DUCAT
 * 🤖 **Core Focus:** Building Machine Learning models, deep learning pipelines, and predictive dashboards
 * ⚡ **Automation:** Streamlining workflows with n8n and Python scripts
