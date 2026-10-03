@@ -1,105 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🎓 Education: Pursuing BTech CSE at Gateway College<br>📊 Specialization: Data Science & Analytics Training from DUCAT<br>🤖 Core Focus: Building Machine Learning models, deep learning pipelines, and predictive dashboards<br>⚡ Automation: Streamlining workflows with n8n and Python scripts<br>🎯 Goal: Turning complex dataset patterns into actionable real-world insights
 
-  <!-- Dynamic Animated Banner Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vcenter=true&width=800&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Jaish+Dahiya;Data+Analyst+%26+Software+Developer;Python+%7C+Machine+Learning+%7C+Automation" alt="Jaish Dahiya Hero Banner" width="100%" />
 
-  <p align="center">
-    <b>BTech CSE Student • Gateway College | Data Science Specialist • DUCAT</b>
-  </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaish-dahiya-5a9753395/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaishdahiya2@gmail.com) 
 
-  <p>
-    <img src="https://img.shields.io/github/followers/jaishdahiya6-del?label=Followers&style=for-the-badge&color=0284C7&logo=github" alt="Followers" />
-    <img src="https://komarev.com/ghpvc/?username=jaishdahiya6-del&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile Views" />
-  </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jaishdahiya6-del&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jaishdahiya6-del&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaishdahiya6-del&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaishdahiya6-del&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-### 👨‍💻 About Me
-
-* 🎓 **Education:** Pursuing BTech CSE at Gateway College 
-* 📊 **Specialization:** Data Science & Analytics Training from DUCAT
-* 🤖 **Core Focus:** Building Machine Learning models, deep learning pipelines, and predictive dashboards
-* ⚡ **Automation:** Streamlining workflows with n8n and Python scripts
-* 🎯 **Goal:** Turning complex dataset patterns into actionable real-world insights
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jaishdahiya6-del&icon=0&color=4)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack & Skillset
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages & Querying** | `Python` `SQL` `HTML/CSS` |
-| **Data Science & ML** | `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `Matplotlib` `Seaborn` |
-| **Tools & Environments** | `VS Code` `Git` `GitHub` `Streamlit` `Jupyter Notebook` |
-| **Workflow Automation** | `n8n` `Zapier` `REST APIs` |
-
----
-
-### 🚀 Featured Repositories
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🪙 Bitcoin GenAI Predictor</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      </p>
-      <p>AI-driven Bitcoin price prediction model utilizing deep learning LSTM networks and market sentiment indicators.</p>
-      <p align="center"><a href="https://github.com/jaishdahiya6-del/Bitcoin-GenAI-Predictor"><b>View Repository »</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Big Tech Stock Analysis</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-      <p>Interactive web dashboard evaluating historical performance and stock price metrics for top tech market leaders.</p>
-      <p align="center"><a href="https://github.com/jaishdahiya6-del/Big-Tech-Stock-Analysis"><b>View Repository »</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Amazon Sales Analysis</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/EDA-007ACC?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <p>Exploratory data analysis uncovering product category performance, sales volume trends, and consumer buying behaviors.</p>
-      <p align="center"><a href="https://github.com/jaishdahiya6-del/Amazon-Sales-Analysis"><b>View Repository »</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 Netflix Content Analysis</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Data_Viz-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Recommender-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      </p>
-      <p>Deep-dive data processing and basic content recommendation logic across 8,800+ movies and TV titles.</p>
-      <p align="center"><a href="https://github.com/jaishdahiya6-del/Netflix-Content-Analysis"><b>View Repository »</b></a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:jaishdahiya6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jaishdahiya6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaish-dahiya-5a9753395" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaish_Dahiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/jaishdahiya6-del" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-jaishdahiya6--del-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Designed & Maintained by Jaish Dahiya</sub>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
